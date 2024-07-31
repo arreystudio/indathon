@@ -4,7 +4,7 @@
 - **Nama:** Ardya Reyhan Yafie
 - **Satuan Kerja:** Pusat Pendidikan dan Pelatihan Badan Pusat Statistik
 
-## Deskripsi Proyek
+## Deskripsi Submission
 Prediksi jumlah penumpang TransJakarta (TJ) menggunakan model Regresi Linear berdasarkan data dari tahun 2015 hingga 2023 dan data pendukung dari tahun 2023 hingga 2024.
 
 ## Fungsi Prediksi Model
@@ -44,7 +44,7 @@ Berikut adalah daftar library yang digunakan dalam fungsi ini beserta versinya:
 
 2. **numpy**: 
    - Versi: `1.24.2`
-   - Deskripsi: Library untuk komputasi numerik yang mendukung array multidimensi dan fungsi matematika.
+   - Deskripsi: Library untuk komputasi numerik yang mendukung multi-dimensional array multidimensi dan fungsi matematika.
 
 3. **scikit-learn**: 
    - Versi: `1.2.2`
